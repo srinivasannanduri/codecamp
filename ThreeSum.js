@@ -46,4 +46,4 @@ function threeSum(arr, S) {
     return false; 
 }
 
-console.log(threeSum([1,3,3,4,5,6,8], 13));
+console.log(threeSum([1,3,3,4,5,6,8], 77));
